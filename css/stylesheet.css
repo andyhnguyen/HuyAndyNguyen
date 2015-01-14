@@ -1,0 +1,63 @@
+body {
+	background-color: #FBFBFA;
+}
+
+.container {
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+
+.height_spacing {
+	padding-top: 75px;
+}
+
+.section_title {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.section_quote {
+	font-size: 25px;
+	font-style: italic;
+}
+
+.section_content {
+	font-size: 30px;
+	padding-top: 15px;
+}
+
+.footer {
+	font-size: 15px;
+}
+
+#andy_photo {
+    margin: 0 auto;
+    max-width: 65%;
+    padding: 7px;
+}
+
+#side_project_content, ul, li, ul, li {
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+}
+
+.profile_picture {
+	padding-top: 50px;
+}
+
+.about_me {
+	padding-top: 40px;
+}
+
+/*
+.about_me {
+	background: url(images/sweden.jpg) center center;
+	background-size: cover;
+	opacity: ;
+}
+
+.profile_picture {
+	opacity: 1;
+}
+*/
